@@ -4,3 +4,6 @@
 **/*.pyc
 
 envs
+.coverage
+
+../docs/build/
