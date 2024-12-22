@@ -3,4 +3,6 @@
 
 **/*.pyc
 
+envs/.env
+
 .coverage
