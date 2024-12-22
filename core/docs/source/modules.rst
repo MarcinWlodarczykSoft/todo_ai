@@ -1,7 +1,7 @@
-project_template
+core
 ================
 
 .. toctree::
    :maxdepth: 4
 
-   project_template
+   core

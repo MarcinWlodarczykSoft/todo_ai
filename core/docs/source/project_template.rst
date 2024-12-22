@@ -7,7 +7,7 @@ Submodules
 project\_template.another\_code module
 --------------------------------------
 
-.. automodule:: project_template.another_code
+.. automodule:: core.another_code
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ project\_template.another\_code module
 project\_template.code module
 -----------------------------
 
-.. automodule:: project_template.code
+.. automodule:: core.code
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ project\_template.code module
 Module contents
 ---------------
 
-.. automodule:: project_template
+.. automodule:: core
    :members:
    :undoc-members:
    :show-inheritance:

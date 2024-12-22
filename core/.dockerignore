@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+**/*.pyc
+
+envs
+.coverage
+
+../docs/build/
